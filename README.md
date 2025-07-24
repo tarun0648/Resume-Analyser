@@ -32,6 +32,8 @@ A powerful, AI-driven resume processing and analysis tool. Upload resumes (PDF),
 
 ---
 
+https://github.com/user-attachments/assets/6e31ec20-2217-40df-ae75-16bb322ceee3
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -129,6 +131,10 @@ frontend/
 ```
 
 ---
+
+
+
+
 
 ## 🛠️ Deployment
 
