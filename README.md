@@ -33,7 +33,9 @@ A powerful, AI-driven resume processing and analysis tool. Upload resumes (PDF),
 ---
 
 
-https://github.com/user-attachments/assets/e6f6a8aa-cfc5-45c5-9b83-0d3414f05b04
+
+https://github.com/user-attachments/assets/b20c8b04-3560-4156-a5db-0153e938ab6b
+
 
 
 
